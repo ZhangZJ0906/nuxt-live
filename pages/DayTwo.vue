@@ -1,4 +1,5 @@
 <template>
+    <NuxtLink to="/">Home</NuxtLink>
     <h1>Page : DayTwo</h1>
     <button type="button" class="btn btn-primary">Primary</button>
     <button type="button" class="btn btn-secondary">Secondary</button>

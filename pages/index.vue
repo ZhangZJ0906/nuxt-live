@@ -4,6 +4,7 @@ const route=useRoute();
 </script>
 
 <template>
+  <NuxtLink to="/DayTwo">DayTwo</NuxtLink>
   <div>
     Page: index
     <h1>目前路由的路徑 - route.fullPath 為: {{ route.fullPath }}</h1>
