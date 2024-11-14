@@ -4,6 +4,9 @@
   <header>
     <ul class="list">
       <li>
+        <NuxtLink to="/">首頁</NuxtLink>
+      </li>
+      <li>
         <NuxtLink to="/D3/">前台首頁</NuxtLink>
       </li>
       <li>
