@@ -11,6 +11,8 @@ const route=useRoute();
   <NuxtLink to="/DayFour">DayFour</NuxtLink>
   <br>
   <NuxtLink to="/DayFive">DayFive</NuxtLink>
+  <br>
+  <NuxtLink to="/D6/">DaySix</NuxtLink>
   <div>
     Page: index
     <h1>目前路由的路徑 - route.fullPath 為: {{ route.fullPath }}</h1>
