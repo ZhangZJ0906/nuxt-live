@@ -26,6 +26,8 @@ fetch(api_url + "api/v1/home/news/")
 </script>
 
 <template>
+    <h1><NuxtLink to="/">首頁</NuxtLink></h1>
+    <h2>Page : DayFive</h2>
     <div class="container">
         <h1>最新消息</h1>
         <NewsCard v-for="item in newsList" :key="item._id" v-bind="item" />
