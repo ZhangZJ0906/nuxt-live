@@ -14,23 +14,9 @@
                         <NuxtLink class="nav-link active" to="/">首頁</NuxtLink>
                     </li>
                     <li class="nav-item">
-                        <NuxtLink class="nav-link active"  to="/DayTwo">DayTwo</NuxtLink>
+                        <NuxtLink class="nav-link" to="/D7">Home</NuxtLink>
                     </li>
-                    <li class="nav-item">
-                        <NuxtLink class="nav-link active"  to="/D3">DayThree</NuxtLink>
-                    </li>
-                    <li class="nav-item">
-                        <NuxtLink class="nav-link active"  to="/DayFour">DayFour</NuxtLink>
-                    </li>
-                    <li class="nav-item">
-                        <NuxtLink class="nav-link active"  to="/DayFive">DayFive</NuxtLink>
-                    </li>
-                    <li class="nav-item">
-                        <NuxtLink  class="nav-link active"  to="/D6/">DaySix</NuxtLink>
-                    </li>
-                    <li class="nav-item">
-                        <NuxtLink  class="nav-link active"  to="/D7/">DaySeven</NuxtLink>
-                    </li>
+
                 </ul>
             </div>
         </div>
