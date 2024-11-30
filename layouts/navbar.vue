@@ -34,6 +34,9 @@
                     <li class="nav-item">
                         <NuxtLink  class="nav-link active"  to="/D8/">DayEight</NuxtLink>
                     </li>
+                    <li class="nav-item">
+                        <NuxtLink  class="nav-link active"  to="/D9/">DayNight</NuxtLink>
+                    </li>
                 </ul>
             </div>
         </div>
